@@ -5,6 +5,12 @@
  */
 module.exports = [
   {
+    type: 'input',
+    name: 'appId',
+    message: 'appId which is used where getting metrics',
+    default: '$',
+  },
+  {
     type: 'confirm',
     name: 'api.enabled',
     message: 'Enable API',
