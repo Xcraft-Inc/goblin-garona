@@ -13,6 +13,7 @@
     }
   },
   "dependencies": {
+    "goblin-tradingpost": "^0.0.1",
     "xcraft-core-goblin": "^4.0.1"
   },
   "devDependencies": {
