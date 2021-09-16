@@ -13,8 +13,8 @@
     }
   },
   "dependencies": {
-    "goblin-tradingpost": "^0.0.1",
-    "xcraft-core-goblin": "^4.0.1"
+    "goblin-tradingpost": "^1.0.0",
+    "xcraft-core-goblin": "^5.0.0"
   },
   "devDependencies": {
     "prettier": "2.0.4",
