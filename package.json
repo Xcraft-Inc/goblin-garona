@@ -1,6 +1,6 @@
 {
   "name": "goblin-garona",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MI7 Spy",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
